@@ -48,4 +48,5 @@ Use it **only on systems you own or have explicit written permission to test.**
 Install dependency:
 ```bash
 pip install requests
+python3 portscan.py
 
